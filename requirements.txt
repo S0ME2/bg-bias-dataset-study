@@ -1,0 +1,24 @@
+# Core scientific computing
+numpy>=1.24
+scipy>=1.10
+
+# Image processing
+opencv-python>=4.8
+Pillow>=10.0
+
+# Visualization (for dataset analysis and plots)
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine learning
+torch>=2.0
+torchvision>=0.15
+
+# Experiment tracking and utilities
+tqdm>=4.65
+
+# Data analysis
+pandas>=2.0
+
+# Optional but recommended for analysis
+scikit-learn>=1.3

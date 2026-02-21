@@ -1,0 +1,13 @@
+venv/
+data/
+models/
+__pycache__/
+
+md_to_ltx.md
+neurips_2025.sty
+
+*.pt
+*.pth
+*.ckpt
+*.log
+.DS_Store

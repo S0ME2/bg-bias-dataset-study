@@ -1,0 +1,20 @@
+{
+    "accuracy": 0.5356176735798016,
+    "precision": 0.6570605187319885,
+    "recall": 0.6221009549795361,
+    "f1": 0.6391030133146461,
+    "confusion_matrix": [
+        [
+            138,
+            238
+        ],
+        [
+            277,
+            456
+        ]
+    ],
+    "seed": 0,
+    "train_dataset": "B",
+    "test_dataset": "D",
+    "model_path": "models/B/model_seed0.pth"
+}
